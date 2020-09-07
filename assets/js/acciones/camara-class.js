@@ -8,7 +8,8 @@ export class Camara {
 
         navigator.mediaDevices.getUserMedia({
             audio: false,
-            video: { width: 300, height: 300, facingMode: 'environment' }
+            //video: { width: 300, height: 300, facingMode: 'environment' }
+            video: { facingMode: 'environment' }
         }).then( stream => {
             this.videoNode.srcObject = stream;
             this.stream = stream;

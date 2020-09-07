@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1599445358136,
+  "timestamp": 1599445699993,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,11 +13,11 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.fa140c13bbfc51597ae1.js",
+        "/main.97e54d58bf1c9c62e2bd.js",
         "/manifest.webmanifest",
         "/polyfills.a4021de53358bb0fec14.js",
         "/runtime.e227d1a0e31cbccbf8ec.js",
-        "/scripts.27628e9768c4373d00a1.js",
+        "/scripts.9969d951efab4c96af8b.js",
         "/styles.3ff695c00d717f2d2a11.css"
       ],
       "patterns": []
@@ -85,16 +85,16 @@
     "/assets/img/login_fondo4.png": "ef188d8ddfedfd335f603533b83a09f30dc9ef73",
     "/assets/img/solprestamo.jpg": "eadc824a5b13257f857a46de163b1039e8521d67",
     "/assets/img/wallpaper1.jpg": "5c60d2920246780a6ea756862461c9b400aae035",
-    "/assets/js/acciones/camara-class.js": "dc9230f948860c9c3b11c00f2dc49bb3f122bfa1",
+    "/assets/js/acciones/camara-class.js": "81284d7906339c3f87134d022c0fc99a11152c7e",
     "/assets/js/countdown.js": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
     "/assets/js/simplyCountdown.min.js": "007ad0016e0b4ac3d4686c889759edf596faafe8",
     "/favicon.ico": "467a09da88e943dcf8e8b27f7ddf8df60beb0053",
-    "/index.html": "6cd2a76c7e39d44c8ac5883eade8d80d1643254f",
-    "/main.fa140c13bbfc51597ae1.js": "17d12bef4acc95c819bc5b136bec5cfeb1b23ca5",
+    "/index.html": "4986acfb0c5645420471b515e290f44169e22130",
+    "/main.97e54d58bf1c9c62e2bd.js": "fba9a549837e38c488fc45a87c2982e726fabea0",
     "/manifest.webmanifest": "7d38e853060105a70c550029fa542c22d426e0a2",
     "/polyfills.a4021de53358bb0fec14.js": "b47435a9ef2a4829f2f9dfd35599bde3614981b1",
     "/runtime.e227d1a0e31cbccbf8ec.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/scripts.27628e9768c4373d00a1.js": "267260e007097d9a7e2ec19160ac39940c4fcec2",
+    "/scripts.9969d951efab4c96af8b.js": "fac3795aca8b95c9abd62b7782c11423869954bf",
     "/styles.3ff695c00d717f2d2a11.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
   "navigationUrls": [
