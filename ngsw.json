@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1599615634024,
+  "timestamp": 1599618507099,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.cdfa31cf0b57014ddd73.js",
+        "/main.f5cf3b8838d7e44f2a23.js",
         "/manifest.webmanifest",
         "/polyfills.a4021de53358bb0fec14.js",
         "/runtime.e227d1a0e31cbccbf8ec.js",
@@ -91,8 +91,8 @@
     "/assets/js/countdown.js": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
     "/assets/js/simplyCountdown.min.js": "007ad0016e0b4ac3d4686c889759edf596faafe8",
     "/favicon.ico": "467a09da88e943dcf8e8b27f7ddf8df60beb0053",
-    "/index.html": "ba39d68f203e131899bfd4ef5e944c94edbc1953",
-    "/main.cdfa31cf0b57014ddd73.js": "b9f9b99ed04e183586b87af31747f2ae068416d8",
+    "/index.html": "b45bd33705c2ec4a7ad87f6f7a9d8afac6bba963",
+    "/main.f5cf3b8838d7e44f2a23.js": "576d81501ad742b17b9f1f63198d84d6a623d98b",
     "/manifest.webmanifest": "7d38e853060105a70c550029fa542c22d426e0a2",
     "/polyfills.a4021de53358bb0fec14.js": "b47435a9ef2a4829f2f9dfd35599bde3614981b1",
     "/runtime.e227d1a0e31cbccbf8ec.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
